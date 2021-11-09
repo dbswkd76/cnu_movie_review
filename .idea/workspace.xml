@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635816068323</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="크롤링1">
+      <created>1636419517562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636419517562</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +170,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="NAVER MOVIE REVIEW 수집(점수, 리뷰, 작성자, 날짜)" />
     <MESSAGE value="크롤링1" />
     <option name="LAST_COMMIT_MESSAGE" value="크롤링1" />
   </component>
